@@ -4,20 +4,11 @@
 ___
 
 
-## 1 - "Hello World!"
+## Content
 
-Send and receive messages in a queue
+1. ["Hello World!"](</1-Hello World!/doc.md>)
 
-~~~
-# Read message
-python receive.py
-
-# Sent message
-python send.py
-~~~
 ___
-
-
 
 ## Notes
 
