@@ -6,7 +6,7 @@ ___
 
 ## Content
 
-1. ["Hello World!"](</1-Hello World!/doc.md>)
+1. ["Hello World!"](</1-Hello World!>)
 
 ___
 
